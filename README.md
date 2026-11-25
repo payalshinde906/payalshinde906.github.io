@@ -118,8 +118,8 @@ V.G.K.P., Mayani | 2020 | 92.20%
 I'm interested in software development opportunities, learning from experienced engineers, and collaborating on practical projects.
 
 - GitHub: [@payalshinde906](https://github.com/payalshinde906)
-- LinkedIn: Add your LinkedIn profile URL
-- Portfolio: Coming soon
+- LinkedIn: https://www.linkedin.com/in/payal-shinde-833840345/
+- Portfolio: 
 
 ---
 
